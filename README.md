@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SamiTactical
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Mern
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, Iam Samiullah Tariq Butt
+- 👋 I am a MERN Stack Beginner
+- 👀 I’m interested in Mastering Reat and Node
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me samiullahtariqbutt@gmail.com
 
 <!---
