@@ -1,7 +1,7 @@
 - 👋 Hi, Iam Samiullah Tariq Butt
-- 👋 I am a MERN Stack Beginner
-- 👀 I’m interested in Mastering React and Node
-- 🌱 I’m currently learning MERN
+- 👋 I am a MERN Stack Developer 
+- 👀 I’m  currently Mastering React and Node
+-  I have great grip on Frontent webdevelopment 
 - 📫 How to reach me samiullahtariqbutt@gmail.com
 
 <!---
