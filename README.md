@@ -1,4 +1,4 @@
-- 👋 Hi, Iam Samiullah Tariq Butt
+- 👋 Hi, I am Samiullah Tariq Butt
 - 👋 I am a MERN Stack Developer 
 - 👀 I’m  currently Mastering React and Node
 -  I have great grip on Frontent webdevelopment 
